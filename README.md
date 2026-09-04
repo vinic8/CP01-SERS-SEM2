@@ -1,12 +1,12 @@
 # Análises de Consumo e Geração de Energia — Portfólio de Notebooks
 
-integrantes:
-**Gabriel Vilas - RM: 571603**
-**Matheus Ferreira - RM: 569638
-**Vinicius Molena - RM: 571270
-Ricardo Algazi - RM: 569600
-Gustavo Henrique - RM: 569921
-Nathan Werner - RM: 572925
+#integrantes:
+-Gabriel Vilas - RM: 571603
+-Matheus Ferreira - RM: 569638
+-Vinicius Molena - RM: 571270
+-Ricardo Algazi - RM: 569600
+-Gustavo Henrique - RM: 569921
+-Nathan Werner - RM: 572925
 
 Este repositório reúne um conjunto de análises exploratórias em Python/Pandas sobre dados de **consumo e geração de energia**, aplicadas a diferentes datasets (residenciais, industriais, solares, eólicos e de operador nacional do sistema elétrico). Todas seguem uma metodologia semelhante: carregamento e organização dos dados, definição de indicadores estatísticos, identificação de picos/limiares de consumo ou geração, cruzamento com uma segunda condição (ambiental ou elétrica) e interpretação dos resultados.
 
