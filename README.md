@@ -1,7 +1,7 @@
 # Análises de Consumo e Geração de Energia — Portfólio de Notebooks
 
 integrantes:
-**Gabriel Vilas - RM: 571603
+**Gabriel Vilas - RM: 571603**
 **Matheus Ferreira - RM: 569638
 **Vinicius Molena - RM: 571270
 Ricardo Algazi - RM: 569600
